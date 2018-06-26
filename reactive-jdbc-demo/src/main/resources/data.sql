@@ -1,0 +1,2 @@
+insert into Rented_House(uuid,address,number_of_rooms,rent) values ('1234-5678','IRIS',2,16000);
+insert into Rented_House(uuid,address,number_of_rooms,rent) values ('101112-131415','KAVERAPPA',2,20000);
